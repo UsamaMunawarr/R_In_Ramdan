@@ -12,7 +12,7 @@ st.image(image1)
 
 # Add Video
 st.write('''
-##Day 1 (a)    
+## Day 1 (a)  
 Installation Procedure''')
 video1 = open("Installation.mp4","rb")
 st.video(video1)
