@@ -18,5 +18,4 @@ video1 = open("Installation.mp4","rb")
 st.video(video1)
 
 
-image2 =Image.open("2.png")
-st.image(image2)
+
